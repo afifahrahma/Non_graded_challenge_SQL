@@ -3,4 +3,4 @@
 - Nama: Afifah Rahma Tifani
 - Batch: 15 - RMT
 
-Repository ini berisikan jawaban-jawaban Non Graded Challenge FTDS Program Hacktiv8 Phase 0.
+Repository ini berisikan jawaban latihan Non Graded Challenge FTDS Program Hacktiv8 Phase 0.

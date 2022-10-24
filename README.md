@@ -1,6 +1,3 @@
 # learning_data
 
-- Nama: Afifah Rahma Tifani
-- Batch: 15 - RMT
-
-Repository ini berisikan jawaban latihan Non Graded Challenge FTDS Program Hacktiv8 Phase 0.
+Repository ini berisikan beberapa dataset yang digunakan dalam pengerjaan projects selama mengikuti Hacktiv8 FTDS.
